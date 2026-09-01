@@ -1,4 +1,8 @@
-# missao-rover-lunar
+# Missão Rover Lunar
+
+![Python Version](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 O projeto Missão Rover Lunar simula a inicialização dos sistemas de um rover destinado a uma missão de exploração lunar. Ao executar o programa, são exibidas informações sobre a inicialização dos sistemas, o funcionamento dos painéis solares e o nível da bateria do rover.
 
