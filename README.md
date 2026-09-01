@@ -21,19 +21,19 @@ def inicializarRover():
 inicializarRover()
 ```
 
-## Pré-requisitos
+# Pré-requisitos
 
 Certifique-se de ter o **Python 3.12** (ou superior) instalado em sua máquina. Você pode verificar a versão instalada executando o seguinte comando no seu terminal:
 
 ```
   python --version
 ```
-  # ou
+  ## ou
 ```
   python3 --version
 ```
 
-## Como Executar
+# Como Executar
 
 Siga o passo a passo abaixo pelo terminal ou linha de comando para rodar o programa:
 
