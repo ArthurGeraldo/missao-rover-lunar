@@ -20,3 +20,43 @@ def inicializarRover():
 
 inicializarRover()
 ```
+
+## Pré-requisitos
+
+Certifique-se de ter o **Python 3.12** (ou superior) instalado em sua máquina. Você pode verificar a versão instalada executando o seguinte comando no seu terminal:
+
+```
+  python --version
+```
+  # ou
+```
+  python3 --version
+```
+
+## Como Executar
+
+Siga o passo a passo abaixo pelo terminal ou linha de comando para rodar o programa:
+
+**1. Entre na pasta do projeto:**
+```
+  cd missao-rover-lunar
+```
+**2. Execute o arquivo principal usando o Python:**
+```
+  python rover.py
+```
+
+# Exemplo de saída
+
+Ao executar o programa, você irá receber o seguinte retorno no terminal.
+```
+Sistemas do rover inicializados
+Paineis solares Ok
+Nível de bateria: 100%
+```
+
+## Sobre o Autor
+**Nome:** Arthur Geraldo Santos Silva  
+**RA:** 4251924719  
+**Disciplina:** Garantia da Qualidade de Software  
+**Professor:** Daniel Henrique Matos de Paiva
